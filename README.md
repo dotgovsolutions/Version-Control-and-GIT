@@ -1,4 +1,4 @@
-# Version-Control-and-GIT
+# Version-Control-and-GIT - Example
 ## Module Description
 In this module, you will learn what version control is and how to use GIT.  You will be able to install GIT, create a GIT repository, manage files, make a commit, list commits, undo a commit, create a branch, check out a branch, merge one branch into another, and resolve merge conflicts.
 
